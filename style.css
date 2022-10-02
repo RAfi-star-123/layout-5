@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+}
+header{
+height: 100px;
+background-color: black;
+color: aliceblue;
+font-size: 30px;
+text-align: center;
+}
+.banner{
+    height: 200px;
+    background-color: darkblue;
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+}
+.box{
+   overflow: hidden;
+}
+.lbox{
+    width: 50%;
+    height: 200px;
+    background-color: chartreuse;
+    float: left;
+}
+.rbox{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(228, 40, 33);
+    float: right;
+}
+.blc{
+overflow: hidden;
+}
+.lblc{
+    background-color: aqua;
+    width: 33.3%;
+    height: 300px;
+    float: left;
+}
+.mblc{
+    background-color: blueviolet;
+    width: 33.3%;
+    height: 300px;
+    float: left;
+} 
+.rblc{
+    background-color: rgb(241, 194, 40);
+    width: 33.3%;
+    height: 300px;
+    float: left;
+    
+}
+.end{overflow: hidden;}
+.ads{
+    width: 60%;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    float: left;
+}
+.img{
+    width: 40%;
+    height: 60px;
+    background-color:red;
+    float: right;
+}
+.content{overflow: hidden;}
+.con1{
+    width: 20%;
+    height: 90px;
+    background-color: chartreuse;
+    float: left;
+}
+.con2{
+    width: 20%;
+    height: 90px;
+    background-color: darkkhaki;
+    float: left;
+}
+.con3{
+    width: 20%;
+    height: 90px;
+    background-color: darkmagenta;
+    float: left;
+}
+.con4{
+    width: 20%;
+    height: 90px;
+    background-color: darksalmon;
+    float: left;
+}
+.con5{
+    width: 20%;
+    height: 90px;
+    background-color: hotpink;
+    float: left;
+}
+footer{
+    height: 60px;
+    font-size: 30px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
